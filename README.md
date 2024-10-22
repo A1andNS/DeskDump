@@ -9,7 +9,7 @@ main.py中是主要实现程序，目前只支持向日葵的识别码和验证�
 请使用python3！
 
 `python main.py -p $PID$ -a sun`
+![banner](images/Snipaste_2024-10-22_11-32-41.png)
 
 ## 效果
-
 ![效果图](images/Snipaste_2024-10-22_11-15-04.png)
